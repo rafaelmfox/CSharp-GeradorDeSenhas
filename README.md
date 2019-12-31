@@ -4,5 +4,8 @@
 Tela 1
 https://prntscr.com/qhxsrh
 
-Tela 2
+<strike>Tela 2</strike>
 https://prntscr.com/qhxsrj
+
+
+Versao 1.5
