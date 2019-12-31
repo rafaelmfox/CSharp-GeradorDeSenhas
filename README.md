@@ -1,5 +1,5 @@
 # CSharp-GeradorDeSenhas
- Programa feito para gerar senhas
+ Programa gerar diversas senhas, e dando possibilidade de salvar em um arquivo .txt
 
 <b>Tela 1</b>
 https://prntscr.com/qhxsrh
