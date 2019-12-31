@@ -17,3 +17,5 @@ Versao 1.5
  <li>x86 ou x64</li>
 </ol>
 
+<b>Intalação</b>
+Não requer instalação, apenas compilar o projeto 
